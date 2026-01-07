@@ -1,7 +1,7 @@
-# vercel-danmuku-api
+# vercel-sousuo-api
 
 ## 部署
-[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/l429609201/vercel-danmuku-api) 
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/l429609201/vercel-sousuo-api) 
 
 
 ## 使用方法
